@@ -1,0 +1,23 @@
+h1 {
+  text-transform: uppercase;
+}
+
+.article {
+  img {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+table {
+  th,
+  td {
+    border: 1px solid black;
+  }
+}
+
+.aside {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
